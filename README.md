@@ -38,8 +38,7 @@ user.email=efrainolivaresuva@gmail.com
 * Send a link in Canvas to your repository
 * add a screenshot **TO YOUR README.md** of an `ls` showing the files in `~/.ssh`, followed by the `git config...` and `ssh -T...` commands showing the expected input.  Look at [github docs image markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
 
-(![Screenshot 2023-11-25 at 5 34 23 PM](https://github.com/DS5111-FALL2023/setup_remote_for_github_rbr6vj/assets/107494898/b805f0fb-c4e5-49ea-a2ca-4f0708974fb5)
-)
+![Screenshot 2023-11-25 at 5 34 23 PM](https://github.com/DS5111-FALL2023/setup_remote_for_github_rbr6vj/assets/107494898/b805f0fb-c4e5-49ea-a2ca-4f0708974fb5)
 
 # Quiz - 10 points
 * A quiz will follow wich will focus just on this content.  It's `open book` or `open internet`.
